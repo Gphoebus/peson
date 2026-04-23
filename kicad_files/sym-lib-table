@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SS12D00G3")(type "Legacy")(uri "${SYMBOLS}/SS12D00G3.lib")(options "")(descr ""))
+  (lib (name "ssd1306")(type "KiCad")(uri "${SYMBOLS}/SSD1306_OLED-0.91-128x32.kicad_sym")(options "")(descr ""))
+)
