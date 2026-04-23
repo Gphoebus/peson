@@ -1,5 +1,5 @@
 # Visualiseur Mesure d'Effort – Arduino HX711
-## M. Parent – Lycée de la Borde Basse
+## Lycée de la Borde Basse
 
 ---
 
