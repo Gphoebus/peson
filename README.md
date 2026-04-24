@@ -106,4 +106,8 @@ N°;Temps (s);Effort (N)
 ## Carte éléctronique
 
 La carte électronique est conçue avec Kicad.
+Vue Avant.
+![Image description](/kicad_files/peson_numerique.png)
 
+vue arrière avec un arduino NANO.
+![Image description](/kicad_files/peson_numerique_2.png)
