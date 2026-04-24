@@ -1,6 +1,6 @@
 # Visualiseur Mesure d'Effort – Arduino HX711
 ## Lycée de la Borde Basse
-
+![Image description](/python/prog.PNG)
 ---
 
 ## 📦 Contenu du projet
