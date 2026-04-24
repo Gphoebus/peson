@@ -102,3 +102,8 @@ N°;Temps (s);Effort (N)
 | **Transmission** | **Démarre/arrête l'envoi USB (1 trame/s)** |
 
 > L'indicateur **[TX]** apparaît sur l'écran OLED tant que la transmission est active.
+
+## Carte éléctronique
+
+La carte électronique est conçue avec Kicad.
+
