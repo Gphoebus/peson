@@ -52,6 +52,9 @@ pip install -r requirements.txt
 4. Sur l'écran OLED, naviguer jusqu'à **Transmission** dans le menu
 5. Appuyer sur le bouton de l'encodeur pour **démarrer/arrêter** la transmission
 
+#### Les menus
+![Image description](/arduino/synoptique_sti2d.png)
+
 ### 2. Python
 
 ```bash
